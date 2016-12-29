@@ -49,7 +49,7 @@ public class StringCompression {
     }
 }
 ```
-Please find the gist (here)[https://gist.github.com/kinshuk4/1a4d64f884b5d51792a992977366e40c].
+Please find the gist [here](https://gist.github.com/kinshuk4/1a4d64f884b5d51792a992977366e40c).
 
 ### Question 4 - List and explain the differences between four different options you have for saving data while making an Android app. Pick one, and explain (without code) how you would implement it.
 > Options to store data: 
